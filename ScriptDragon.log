@@ -1,0 +1,23 @@
+checking game version
+current (1.9.32.0) game version is supported
+registering plugin `Q:\SteamLibrary\steamapps\common\Skyrim\skysilver.asi`
+plugin registered
+registering plugin `Q:\SteamLibrary\steamapps\common\Skyrim\undress.asi`
+plugin registered
+thread with tid 9896 started
+thread with tid 11984 started
+thread with tid 18664 started
+thread with tid 17696 started
+thread with tid 11808 started
+thread with tid 13728 started
+thread with tid 14128 started
+console hooked
+----------- fibers remove -----------
+tid_list:: adding entry tid 17696
+tid_list:: adding entry tid 18664
+converting 18664 to primary fiber
+converted to primary fiber
+tid_list:: clear
+----------- fibers create -----------
+launching fiber main() for 'Q:\SteamLibrary\steamapps\common\Skyrim\skysilver.asi'
+launching fiber main() for 'Q:\SteamLibrary\steamapps\common\Skyrim\undress.asi'

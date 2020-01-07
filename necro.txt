@@ -1,0 +1,5 @@
+player.placeatme 00052543 1 
+player.placeatme 000D5C71 1 
+player.placeatme 0002D1FD 1 
+player.placeatme 000DA06B 1 
+player.placeatme 000E0FD5 1

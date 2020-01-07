@@ -1,0 +1,1 @@
+player.placeatme 000E0FCB 1

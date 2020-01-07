@@ -1,0 +1,2 @@
+player.placeatme 00023abf 1 
+player.placeatme 000ddcd0 1 

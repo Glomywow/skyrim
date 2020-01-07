@@ -1,0 +1,2 @@
+sw 00105941 
+player.placeatme 000F8118 1

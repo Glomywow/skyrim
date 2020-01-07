@@ -1,0 +1,4 @@
+player.placeatme 000A5600 1
+player.placeatme 000A5600 1 
+player.placeatme 000A5600 1 
+player.placeatme 00023A8F 1

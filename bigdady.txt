@@ -1,0 +1,2 @@
+player.placeatme 00030437 1
+player.placeatme 000C97D1 1
